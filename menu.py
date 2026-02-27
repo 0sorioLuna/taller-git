@@ -24,4 +24,4 @@ elif opcion == 5:
 elif opcion == 6:
     print("Resultado:", num1 % num2)
 else:
-    print("Opción inválida")
+    print("Opción inválida") 
