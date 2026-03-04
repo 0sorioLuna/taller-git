@@ -1,3 +1,3 @@
 def incrementar_dia():
-    print("Día actual: 1")
-    return 1
+    print("Día actual: 2")
+    return 2
